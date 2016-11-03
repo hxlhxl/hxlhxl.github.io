@@ -2,7 +2,7 @@
 title: ssh-without-yes-prompt
 date: 2016-11-03 17:29:39
 tags: SSH
-categories: *nix-admin
+categories: system_admin
 toc: ture
 ---
 如何让被授权机器首次登陆不用输入令人讨厌的"yes/no"
