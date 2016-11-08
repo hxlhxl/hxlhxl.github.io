@@ -11,6 +11,7 @@ find /search/service/nginx/html/opWeb/resourse/hexo/image/ -name "*.md" -print0 
 git_dir="/search/huaxiong/hxlhxl.github.io"
 hexo_dir="/search/huaxiong/hexo"
 
+cd ${pwd_dir}
 hexo clean
 hexo generate
 hexo deploy
