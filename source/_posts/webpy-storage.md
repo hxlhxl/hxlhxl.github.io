@@ -64,7 +64,7 @@ print config.c
 
 # 解释
 
-![](http://lilyzt.com/hexo/image/webpy-storage/01.png)
+![](http://lilyzt.com/hexo/image/heap/1.png)
 
 
 

@@ -530,7 +530,7 @@ server {
 
 另外，还有一点是uwsgi有的时候也会产生core文件哦~
 
-![uwsgi core file](http://lilyzt.com/hexo/image/flask-uwsgi-nginx%E9%83%A8%E7%BD%B2/01.png)
+![uwsgi core file](http://lilyzt.com/hexo/image/heap/2.png)
 
 
 
