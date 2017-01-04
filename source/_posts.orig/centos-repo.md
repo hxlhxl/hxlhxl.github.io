@@ -1,6 +1,7 @@
 ---
 title: centos-repo
 date: 2016-10-26 12:54:12
+tags: init
 categories: init
 toc: true
 ---

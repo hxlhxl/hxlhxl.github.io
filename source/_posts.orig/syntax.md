@@ -1,6 +1,7 @@
 ---
 title: syntax
 date: 2016-10-23 03:24:09
+tags: hexo
 categories: ML
 toc: true
 

@@ -1,6 +1,7 @@
 ---
 title: SSH用户认证
 date: 2016-11-08 13:32:30
+tags: SSH
 categories: system_admin
 toc: true
 ---

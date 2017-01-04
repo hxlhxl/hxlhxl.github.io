@@ -1,6 +1,7 @@
 ---
 title: init-pyenv
 date: 2016-10-28 00:01:58
+tags: init
 categories: init
 toc: true
 ---

@@ -1,6 +1,7 @@
 ---
 title: ssh-without-yes-prompt
 date: 2016-11-03 17:29:39
+tags: SSH
 categories: system_admin
 toc: ture
 ---

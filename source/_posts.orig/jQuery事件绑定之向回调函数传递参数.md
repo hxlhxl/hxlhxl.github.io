@@ -1,6 +1,7 @@
 ---
 title: jQuery事件绑定之向回调函数传递参数
 date: 2016-11-08 20:15:16
+tags: JavaScript jQuery
 categories: JavaScript
 toc: true
 ---

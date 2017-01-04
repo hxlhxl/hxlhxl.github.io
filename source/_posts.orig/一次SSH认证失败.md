@@ -1,6 +1,7 @@
 ---
 title: 一次SSH认证失败
 date: 2016-11-07 08:32:17
+tags: SSH
 categories: system_admin
 toc: true
 ---

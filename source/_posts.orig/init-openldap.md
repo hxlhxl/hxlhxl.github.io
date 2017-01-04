@@ -1,6 +1,7 @@
 ---
 title: init-openldap
 date: 2016-10-27 23:50:49
+tags: init
 categories: init
 toc: true
 ---

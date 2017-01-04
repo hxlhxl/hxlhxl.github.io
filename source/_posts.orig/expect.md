@@ -1,6 +1,7 @@
 ---
 title: expect
 date: 2016-10-23 03:56:20
+tags: tools
 categories: tools
 toc: true
 

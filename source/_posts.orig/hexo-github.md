@@ -1,6 +1,7 @@
 ---
 title: hexo+github
 date: 2016-10-24 02:27:06
+tags: hexo
 categories: init
 toc: true
 
@@ -127,6 +128,7 @@ vim hello.md
 ---
 title: hexo+github
 date: 2016-10-24 02:27:06
+tags: hexo
 categories: init
 toc: true
 ---

@@ -1,6 +1,7 @@
 ---
 title: flask-uwsgi-nginx部署
 date: 2016-11-08 23:47:19
+tags: init
 categories: init
 toc: true
 ---

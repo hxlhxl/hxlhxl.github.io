@@ -1,6 +1,7 @@
 ---
 title: webpy-init_mapping
 date: 2016-11-07 09:00:31
+tags: 
 categories: webpy
 toc: true
 ---
